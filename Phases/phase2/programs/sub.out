@@ -1,0 +1,13 @@
+8
+
+--- Process Accounting: sub ---
+CPU Time        = 5
+Waiting Time    = 125
+I/O Time        = 79
+Turnaround Time = 224
+
+--- System Accounting (system halted at clock 4131) ---
+System Time            = 1087 (idle 22 + context switch 1065)
+System CPU Utilization = 99.4674%
+User CPU Utilization   = 73.6868%
+Throughput             = 1.45243 processes/sec
